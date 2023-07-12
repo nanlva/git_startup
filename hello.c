@@ -5,5 +5,7 @@ int main(void)
     printf("hello, this is git practise");
     printf("this is first modification");
     printf("rebase test: master branch repo_neo2");
+    printf("rebase test: dev branch repo_neo");
+    printf("rebase test: dev branch repo_neo 2nd");
     return 0;
 }
